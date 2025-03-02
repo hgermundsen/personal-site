@@ -1,0 +1,13 @@
+{
+  "title": "Technical Skills",
+  "content": {
+    "Frontend": {
+      "Languages": ["TypeScript", "HTML", "CSS"],
+      "Frameworks": ["React", "Next.js"]
+    },
+    "Backend": {
+      "Languages": ["Python, Node.js"],
+      "Databases": ["PostgreSQL", "MongoDB"]
+    }
+  }
+}
